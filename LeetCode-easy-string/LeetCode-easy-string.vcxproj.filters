@@ -29,5 +29,20 @@
     <ClInclude Include="FirstUniqueChar.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="Anagram.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Palindrome.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ATOI.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Strstr.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestCommonPrefix.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

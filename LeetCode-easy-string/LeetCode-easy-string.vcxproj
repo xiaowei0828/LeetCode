@@ -67,9 +67,14 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Anagram.h" />
+    <ClInclude Include="ATOI.h" />
     <ClInclude Include="FirstUniqueChar.h" />
+    <ClInclude Include="LongestCommonPrefix.h" />
+    <ClInclude Include="Palindrome.h" />
     <ClInclude Include="ReverseInteger.h" />
     <ClInclude Include="ReverseString.h" />
+    <ClInclude Include="Strstr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -9,12 +9,12 @@ public:
 	int firstUniqChar(string s) 
 	{
 		int counter[26] = { 0 };
-		for (int i = 0; i < s.length(); i++)
+		for (size_t i = 0; i < s.length(); i++)
 		{
 			++counter[s[i] - 'a'];
 		}
 
-		for (int i = 0; i < s.length(); i++)
+		for (size_t i = 0; i < s.length(); i++)
 		{
 			if (counter[s[i] - 'a'] == 1)
 			{
