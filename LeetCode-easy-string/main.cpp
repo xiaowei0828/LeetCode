@@ -6,12 +6,15 @@
 #include "ATOI.h"
 #include "Strstr.h"
 #include "LongestCommonPrefix.h"
+#include "CountAndSay.h"
 
 int main(int argc, char* argv[])
 {
-	vector<string> test = { "flower", "flow", "flight" };
+	CountAndSay count_and_say;
+	string ret = count_and_say.countAndSay(6);
+	/*vector<string> test = { "flower", "flow", "flight" };
 	LongestCommonPrefix prefix;
-	string common_prefix = prefix.longestCommonPrefix(test);
+	string common_prefix = prefix.longestCommonPrefix(test);*/
 	/*string s1 = "mississippi";
 	string s2 = "issip";
 	Strstr strstr;

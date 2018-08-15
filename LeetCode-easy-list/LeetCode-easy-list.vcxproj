@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4375B736-334F-4913-85C9-A19846CD9966}</ProjectGuid>
-    <RootNamespace>LeetCodeeasystring</RootNamespace>
+    <ProjectGuid>{C07D7143-A856-41C1-839C-6943CDFBA0DC}</ProjectGuid>
+    <RootNamespace>LeetCodeeasylist</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -67,15 +67,11 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Anagram.h" />
-    <ClInclude Include="ATOI.h" />
-    <ClInclude Include="CountAndSay.h" />
-    <ClInclude Include="FirstUniqueChar.h" />
-    <ClInclude Include="LongestCommonPrefix.h" />
-    <ClInclude Include="Palindrome.h" />
-    <ClInclude Include="ReverseInteger.h" />
-    <ClInclude Include="ReverseString.h" />
-    <ClInclude Include="Strstr.h" />
+    <ClInclude Include="CommonType.h" />
+    <ClInclude Include="DeleteNode.h" />
+    <ClInclude Include="MergeList.h" />
+    <ClInclude Include="RemoveFromEnd.h" />
+    <ClInclude Include="ReverseList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

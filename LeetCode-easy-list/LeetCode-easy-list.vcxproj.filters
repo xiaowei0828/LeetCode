@@ -20,31 +20,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ReverseString.h">
+    <ClInclude Include="CommonType.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="ReverseInteger.h">
+    <ClInclude Include="DeleteNode.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="FirstUniqueChar.h">
+    <ClInclude Include="RemoveFromEnd.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="Anagram.h">
+    <ClInclude Include="ReverseList.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="Palindrome.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="ATOI.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Strstr.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="LongestCommonPrefix.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="CountAndSay.h">
+    <ClInclude Include="MergeList.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>

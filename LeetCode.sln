@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-array", "Leet
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-string", "LeetCode-easy-string\LeetCode-easy-string.vcxproj", "{4375B736-334F-4913-85C9-A19846CD9966}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-list", "LeetCode-easy-list\LeetCode-easy-list.vcxproj", "{C07D7143-A856-41C1-839C-6943CDFBA0DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{4375B736-334F-4913-85C9-A19846CD9966}.Debug|Win32.Build.0 = Debug|Win32
 		{4375B736-334F-4913-85C9-A19846CD9966}.Release|Win32.ActiveCfg = Release|Win32
 		{4375B736-334F-4913-85C9-A19846CD9966}.Release|Win32.Build.0 = Release|Win32
+		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Debug|Win32.Build.0 = Debug|Win32
+		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Release|Win32.ActiveCfg = Release|Win32
+		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
