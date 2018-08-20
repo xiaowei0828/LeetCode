@@ -20,25 +20,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CommonType.h">
+    <ClInclude Include="MergeSortedArray.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="DeleteNode.h">
+    <ClInclude Include="FirstBadVersion.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="RemoveFromEnd.h">
+    <ClInclude Include="ClimbStairs.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="ReverseList.h">
+    <ClInclude Include="MaxProfit.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="MergeList.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="IsPalindrome.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="HasCycle.h">
+    <ClInclude Include="MaxSubArray.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>

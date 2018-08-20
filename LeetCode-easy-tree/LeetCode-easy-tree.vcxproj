@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C07D7143-A856-41C1-839C-6943CDFBA0DC}</ProjectGuid>
-    <RootNamespace>LeetCodeeasylist</RootNamespace>
+    <ProjectGuid>{A24CFD00-02A4-4BE5-8433-1481FD4F74BC}</ProjectGuid>
+    <RootNamespace>LeetCodeeasytree</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -68,12 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CommonType.h" />
-    <ClInclude Include="DeleteNode.h" />
-    <ClInclude Include="HasCycle.h" />
-    <ClInclude Include="IsPalindrome.h" />
-    <ClInclude Include="MergeList.h" />
-    <ClInclude Include="RemoveFromEnd.h" />
-    <ClInclude Include="ReverseList.h" />
+    <ClInclude Include="LevelTraverse.h" />
+    <ClInclude Include="MaxDepth.h" />
+    <ClInclude Include="SortedArrayToBST.h" />
+    <ClInclude Include="SymmetricTree.h" />
+    <ClInclude Include="ValidBST.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

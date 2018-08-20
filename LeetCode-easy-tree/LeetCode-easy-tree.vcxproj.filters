@@ -23,22 +23,19 @@
     <ClInclude Include="CommonType.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="DeleteNode.h">
+    <ClInclude Include="MaxDepth.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="RemoveFromEnd.h">
+    <ClInclude Include="ValidBST.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="ReverseList.h">
+    <ClInclude Include="SymmetricTree.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="MergeList.h">
+    <ClInclude Include="LevelTraverse.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="IsPalindrome.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
-    <ClInclude Include="HasCycle.h">
+    <ClInclude Include="SortedArrayToBST.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>

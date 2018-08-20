@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-string", "Lee
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-list", "LeetCode-easy-list\LeetCode-easy-list.vcxproj", "{C07D7143-A856-41C1-839C-6943CDFBA0DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-tree", "LeetCode-easy-tree\LeetCode-easy-tree.vcxproj", "{A24CFD00-02A4-4BE5-8433-1481FD4F74BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-easy-other", "LeetCode-easy-other\LeetCode-easy-other.vcxproj", "{7DE54128-56E9-4589-B747-7EB1B4A6DA21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +31,14 @@ Global
 		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Debug|Win32.Build.0 = Debug|Win32
 		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Release|Win32.ActiveCfg = Release|Win32
 		{C07D7143-A856-41C1-839C-6943CDFBA0DC}.Release|Win32.Build.0 = Release|Win32
+		{A24CFD00-02A4-4BE5-8433-1481FD4F74BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A24CFD00-02A4-4BE5-8433-1481FD4F74BC}.Debug|Win32.Build.0 = Debug|Win32
+		{A24CFD00-02A4-4BE5-8433-1481FD4F74BC}.Release|Win32.ActiveCfg = Release|Win32
+		{A24CFD00-02A4-4BE5-8433-1481FD4F74BC}.Release|Win32.Build.0 = Release|Win32
+		{7DE54128-56E9-4589-B747-7EB1B4A6DA21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DE54128-56E9-4589-B747-7EB1B4A6DA21}.Debug|Win32.Build.0 = Debug|Win32
+		{7DE54128-56E9-4589-B747-7EB1B4A6DA21}.Release|Win32.ActiveCfg = Release|Win32
+		{7DE54128-56E9-4589-B747-7EB1B4A6DA21}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
