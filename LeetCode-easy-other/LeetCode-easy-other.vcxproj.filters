@@ -35,5 +35,23 @@
     <ClInclude Include="MaxSubArray.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="Rob.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShuffleArray.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinStack.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FizzBuzz.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CountPrimes.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerOfThree.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

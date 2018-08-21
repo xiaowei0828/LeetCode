@@ -68,10 +68,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ClimbStairs.h" />
+    <ClInclude Include="CountPrimes.h" />
     <ClInclude Include="FirstBadVersion.h" />
+    <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="MaxProfit.h" />
     <ClInclude Include="MaxSubArray.h" />
     <ClInclude Include="MergeSortedArray.h" />
+    <ClInclude Include="MinStack.h" />
+    <ClInclude Include="PowerOfThree.h" />
+    <ClInclude Include="Rob.h" />
+    <ClInclude Include="ShuffleArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
