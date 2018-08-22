@@ -7,11 +7,28 @@
 #include "MinStack.h"
 #include "FizzBuzz.h"
 #include "PowerOfThree.h"
+#include "RomanToInt.h"
+#include "HammingWeight.h"
+#include "ReverseBits.h"
+#include "YanghuiTriangle.h"
+#include "ValidBracket.h"
 
 int main(int argc, char* argv[])
 {
-	PowerOfThree power_of_three;
-	power_of_three.isPowerOfThree(9);
+	ValidBracket valid_bracket;
+	bool ret = valid_bracket.isValid("()");
+	/*YanghuiTriangle yanghui_triangle;
+	vector<vector<int>> result = yanghui_triangle.generate(5);*/
+	/*ReverseBits reverse_bits;
+	uint32_t result = reverse_bits.reverseBits(43261596);*/
+	/*HammingWeight hamming_weight;
+	int count = hamming_weight.hammingWeight(128);*/
+	/*RomanToInt roman_to_int;
+	int result = roman_to_int.romanToInt("III");
+	result = roman_to_int.romanToInt("LVIII");
+	result = roman_to_int.romanToInt("MCMXCIV");*/
+	/*PowerOfThree power_of_three;
+	power_of_three.isPowerOfThree(9);*/
 	/*FizzBuzz fizz_buzz;
 	vector<string> result = fizz_buzz.fizzBuzz(15);*/
 	/*MinStack min_stack;

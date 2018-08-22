@@ -71,13 +71,20 @@
     <ClInclude Include="CountPrimes.h" />
     <ClInclude Include="FirstBadVersion.h" />
     <ClInclude Include="FizzBuzz.h" />
+    <ClInclude Include="HammingDistance.h" />
+    <ClInclude Include="HammingWeight.h" />
     <ClInclude Include="MaxProfit.h" />
     <ClInclude Include="MaxSubArray.h" />
     <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="MinStack.h" />
+    <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="PowerOfThree.h" />
+    <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="Rob.h" />
+    <ClInclude Include="RomanToInt.h" />
     <ClInclude Include="ShuffleArray.h" />
+    <ClInclude Include="ValidBracket.h" />
+    <ClInclude Include="YanghuiTriangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
